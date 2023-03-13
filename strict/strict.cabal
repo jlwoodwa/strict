@@ -105,7 +105,7 @@ library
       bifunctors >= 5.5.2 && < 5.6
 
   if flag(assoc)
-    build-depends: assoc >= 1.0.1 && < 1.1
+    build-depends: assoc >= 1.0.1 && < 1.2
 
   exposed-modules:
     Data.Strict
